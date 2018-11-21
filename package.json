@@ -1,6 +1,6 @@
 {
   "name": "integrity-connector-prodio",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Adapter for consuming integrity API's",
   "main": "lib/index.js",
   "scripts": {
@@ -41,6 +41,7 @@
   "author": "Pawan Wagh <pawan@prodio.in> (http://prodio.in/)",
   "license": "ISC",
   "dependencies": {
+    "user": "0.0.0",
     "uuid": "^3.3.2"
   }
 }

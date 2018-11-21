@@ -5,9 +5,9 @@ export default class Integrity {
     this.config = config;
   }
 
-  createMerchant(payload){
+  createMerchant(payloadJson){
     let tmpObj = {"success":true,gatewayMerchantId: uuidv4()};
-  	return tmpObj;
+  	return payloadJson;
   }
 
   updateMerchant(){
