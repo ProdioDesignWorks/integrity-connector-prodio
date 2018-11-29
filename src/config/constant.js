@@ -1,6 +1,6 @@
 exports.MASTER_MERCHANT_ACCESS = {
     'UserName': "kinetempapi123",
-    'Password': "EzPay123",
+    'Password': "Technologies1",
     'Vendor': "75",
     'BeginDt': "1/11/2017",
     'EndDt': "1/11/2018",

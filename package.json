@@ -1,6 +1,6 @@
 {
   "name": "integrity-connector-prodio",
-  "version": "0.0.6",
+  "version": "0.0.9",
   "description": "Adapter for consuming integrity API's",
   "main": "lib/index.js",
   "scripts": {
